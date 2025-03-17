@@ -4,7 +4,7 @@
   <a href="README.md">English</a> | <b>简体中文</b>
 </p>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Evil0ctal/Evil-Lang)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader/releases)
 [![Python](https://img.shields.io/badge/python-3.6+-yellow)](https://www.python.org/)
 [![GitHub stars](https://img.shields.io/github/stars/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Stars)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
 [![GitHub forks](https://img.shields.io/github/forks/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Forks)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
