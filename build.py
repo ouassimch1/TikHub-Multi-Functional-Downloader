@@ -7,6 +7,8 @@ import argparse
 from typing import List, Tuple, Optional
 import pkg_resources
 
+from downloader.constants import APP_VERSION
+
 
 # 1️⃣ 配置和常量定义 (Configuration and constants)
 class Config:
@@ -19,11 +21,11 @@ class Config:
     DOWNLOADER_DIR = os.path.join(PROJECT_DIR, "downloader")
     MAIN_SCRIPT = os.path.join(PROJECT_DIR, "main.py")
 
-    # 应用程序名称 (Application name)
-    EXE_NAME = "TikHub_Downloader"
-
     # 当前操作系统 (Current operating system)
     CURRENT_OS = platform.system()
+
+    # 应用程序名称 (Application name)
+    EXE_NAME = f"TikHub_Downloader-{CURRENT_OS}-{APP_VERSION}"
 
     # 设置图标路径 (Set icon paths)
     ICON_PATHS = {
@@ -390,7 +392,8 @@ def main():
         else:
             print("Linux可执行文件已生成在 dist 目录中 (Linux executable generated in dist directory)")
     else:
-        print("\n⚠️ 打包过程中遇到问题，请检查上面的错误信息 (Problems encountered during packaging, please check error messages above)")
+        print(
+            "\n⚠️ 打包过程中遇到问题，请检查上面的错误信息 (Problems encountered during packaging, please check error messages above)")
 
 
 if __name__ == "__main__":
