@@ -5,7 +5,7 @@
 </p>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader/releases)
-[![Python](https://img.shields.io/badge/python-3.6+-yellow)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.9+-yellow)](https://www.python.org/)
 [![GitHub stars](https://img.shields.io/github/stars/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Stars)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
 [![GitHub forks](https://img.shields.io/github/forks/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Forks)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
 [![GitHub issues](https://img.shields.io/github/issues/TikHub/TikHub-Multi-Functional-Downloader.svg)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader/issues)
@@ -64,10 +64,10 @@
 - 🪟 Windows 7/10/11 (最佳支持)
 - 🍎 macOS 10.14+ (Intel & M1/M2)
 - 🐧 Linux (Ubuntu, Debian, Fedora等)
-- 🌐 其他支持 Python 3.8+ 的操作系统
+- 🌐 其他支持 Python 3.9+ 的操作系统
 
 ### 🔧 技术要求
-- 🐍 Python 3.8 或更高版本
+- 🐍 Python 3.9 或更高版本
 - 📦 所需Python依赖（详见 `requirements.txt`）
 - 🔑 TikHub.io API密钥（[免费获取](https://user.tikhub.io/)）
 - 🌐 稳定的网络连接（中国大陆地区用户下载TikTok视频时建议使用代理工具）

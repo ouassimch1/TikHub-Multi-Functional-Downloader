@@ -5,7 +5,7 @@
 </p>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader/releases)
-[![Python](https://img.shields.io/badge/python-3.6+-yellow)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.9+-yellow)](https://www.python.org/)
 [![GitHub stars](https://img.shields.io/github/stars/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Stars)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
 [![GitHub forks](https://img.shields.io/github/forks/TikHub/TikHub-Multi-Functional-Downloader.svg?style=social&label=Forks)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader)
 [![GitHub issues](https://img.shields.io/github/issues/TikHub/TikHub-Multi-Functional-Downloader.svg)](https://github.com/TikHub/TikHub-Multi-Functional-Downloader/issues)
@@ -64,10 +64,10 @@ A powerful cross-platform video download GUI application that supports multiple 
 - 🪟 Windows 7/10/11 (Best Support)
 - 🍎 macOS 10.14+ (Intel & M1/M2)
 - 🐧 Linux (Ubuntu, Debian, Fedora, etc.)
-- 🌐 Other operating systems that support Python 3.8+
+- 🌐 Other operating systems that support Python 3.9+
 
 ### 🔧 Technical Requirements
-- 🐍 Python 3.8 or higher
+- 🐍 Python 3.9 or higher
 - 📦 Required Python dependencies (see `requirements.txt`)
 - 🔑 TikHub.io API key ([Get for free](https://user.tikhub.io/))
 - 🌐 Stable network connection (Proxy tools recommended for users in mainland China downloading TikTok videos)
